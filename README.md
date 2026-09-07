@@ -1,0 +1,2 @@
+This project contains basics of Kali Linux configuration in Virtual Box from  finding the user using the command "Hostname" command, using the command "whoami" to find the user also, then using command "ip a" to find the ip address of the Kali Linux, then find the detailed description of ip addresses using command "ifconfig" and configuring basics of Kali Linux.
+In network scanning using the metasploitable 2 machine as it is intentionally vulnerable to perform nmap scan to find associated open ports and services.
