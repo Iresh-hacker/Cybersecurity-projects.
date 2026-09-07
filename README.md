@@ -1,2 +1,31 @@
-This project contains basics of Kali Linux configuration in Virtual Box from  finding the user using the command "Hostname" command, using the command "whoami" to find the user also, then using command "ip a" to find the ip address of the Kali Linux, then find the detailed description of ip addresses using command "ifconfig" and configuring basics of Kali Linux.
-In network scanning using the metasploitable 2 machine as it is intentionally vulnerable to perform nmap scan to find associated open ports and services.
+# Hi, I'm Iresh 👋
+
+## Cybersecurity Undergraduate | Aspiring Penetration Tester
+
+I'm a cybersecurity undergraduate interested in penetration testing,
+web application security, network security, and security operations.
+
+### 🛡️ Cybersecurity Skills
+
+- Kali Linux
+- Nmap
+- Burp Suite
+- Wireshark
+- Metasploit
+- OpenVAS
+- Python
+- Bash
+- Git/GitHub
+
+### 🔬 Projects
+
+- Network Discovery & Nmap Scanning Lab
+- OWASP Juice Shop Web Security Testing
+- Burp Suite HTTP Traffic Analysis
+- Wireshark Packet Analysis
+- Phishing URL Detection using Machine Learning
+
+### 🎯 Career Goal
+
+Seeking cybersecurity internship opportunities where I can apply
+practical security skills in real-world environments.
